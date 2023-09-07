@@ -1,0 +1,20 @@
+## ugg-user 7.1.2 N2G47H V11.0.2.0.NDKMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8937
+- Codename: ugg
+- Brand: xiaomi
+- Flavor: ugg-user
+- Release Version: 7.1.2
+- Kernel Version: 3.18.31
+- Id: N2G47H
+- Incremental: V11.0.2.0.NDKMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: xiaomi/ugg/ugg:7.1.2/N2G47H/V11.0.2.0.NDKMIXM:user/release-keys
+- OTA version: 
+- Branch: ugg-user-7.1.2-N2G47H-V11.0.2.0.NDKMIXM-release-keys
+- Repo: xiaomi_ugg_dump
